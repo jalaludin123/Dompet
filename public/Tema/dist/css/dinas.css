@@ -1,0 +1,24 @@
+nav.main-header{
+    background-color: #007bff;
+}
+
+ul.nav.justify-content-center{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+b:link{color: black;}
+b:visited{color: black;}
+b:hover{color: red;}
+b{
+    color: rgb(73, 72, 72);
+    font-size: 17px;
+    font-family:sans-serif;
+}
+li.nav-item{
+    margin-right: 20px;
+}
+.btn.btn-block{
+    height: 80%;
+    width: 100%;
+}
+
